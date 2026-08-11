@@ -66,15 +66,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthVishalReddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JayanthVishalReddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JayanthVishalReddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
